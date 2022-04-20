@@ -1,0 +1,67 @@
+.wrapper{
+    width: auto;
+    height: 70px;
+    border-radius: 5%;
+    background-color: mediumseagreen;
+}
+.logo {
+   background-color: mintcream;
+    
+
+}
+.ait {
+  background-color: rgb(167, 161, 151);
+   
+
+}
+.admin {
+  background-color: seashell;
+   
+
+}
+
+
+.nav-link text-dark{
+  text-transform: uppercase;
+  text-decoration: plum;
+}
+.navbar-nav flex-grow-1
+{
+  text-decoration-color: midnightblue;
+}
+.nav-item{
+  text-decoration-color: thistle;
+}
+
+.index-cta{
+  height: 70vh;
+  background-image: url('../myImage/index.png');
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  
+}
+.profilepage{
+  height: 70vh;
+  background-image: url('../myImage/profile.jpg');
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  
+}
+.adminpage{
+  height: 70vh;
+  background-image: url('../myImage/Bankee-Finance-UI-Kit-Free.jpg');
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  
+}
+.Sucess
+{
+  height: 90vh;
+    text-align: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-image: url('../myImage/Sucess.png') ;
+}
